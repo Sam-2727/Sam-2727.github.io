@@ -632,8 +632,7 @@ margin on the iframe, cause it breaks stuff. */
     background: linear-gradient(to bottom, rgba(0,0,0,0.2) 0%,rgba(0,0,0,0) 100%);
 }
 .no-cover .main-nav.overlay,
-.no-cover .back-button,
-.no-cover .subscribe-button {
+.no-cover .back-button{
     background: none;
 }
 
