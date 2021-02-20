@@ -644,6 +644,7 @@ margin on the iframe, cause it breaks stuff. */
 .main-nav.overlay .back-button,
 .main-nav.overlay .subscribe-button {
     border-color: #bfc8cd;
+    #b0cedd
 }
 
 .main-nav.overlay a:hover {
@@ -1519,8 +1520,7 @@ body:not(.post-template) .post-title {
     .no-cover .main-nav.overlay {
         background: none;
     }
-    .no-cover .main-nav.overlay .back-button,
-    .no-cover .main-nav.overlay .subscribe-button {
+    .no-cover .main-nav.overlay .back-button {
         border: none;
     }
 
